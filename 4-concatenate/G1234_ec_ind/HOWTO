@@ -1,0 +1,26 @@
+
+prefix=G1234_ec_ind
+
+for f in $(find ../../3-merging/ -name "*merged*" | grep "G[1-4]\." | sort -n)
+do
+	cat $f
+done > $prefix.merged.fastq.gz
+
+for f in $(find ../../3-merging/ -name "*_1.nm*" | grep "G[1-4]_" | sort -n)
+do
+        cat $f
+done > $prefix.1.fastq.gz
+
+
+for f in $(find ../../3-merging/ -name "*_2.nm*" | grep "G[1-4]_" | sort -n)
+do
+        cat $f
+done > $prefix.2.fastq.gz
+
+for f in $(find ../../2-error-correction/ -name "*se*" | grep "G[1-4]\.corrected" | sort -n)
+do
+        cat $f
+done > $prefix.se.fastq.gz
+
+cd ..
+ssh -rp G1234_ec_ind 478358@viper.hull.ac.uk:~/

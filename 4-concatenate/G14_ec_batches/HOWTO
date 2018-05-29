@@ -1,0 +1,32 @@
+
+prefix=G14_ec_batches
+
+cp ../../3-merging/G4/G4.merged.fastq.gz $prefix.merged.fastq.gz
+for f in $(find ../../3-merging/ -name "*merged*" |grep "G14\.merged" | sort -n)
+do
+	cat $f
+done >> $prefix.merged.fastq.gz
+
+
+
+cp ../../3-merging/G4/G4_1.nm.fastq.gz $prefix.1.fastq.gz
+for f in $(find ../../3-merging/ -name "*_1.nm*" | grep "G14" | sort -n)
+do
+        cat $f
+done >> $prefix.1.fastq.gz
+
+
+cp ../../3-merging/G4/G4_2.nm.fastq.gz $prefix.2.fastq.gz
+for f in $(find ../../3-merging/ -name "*_2.nm*" | grep "G14" | sort -n)
+do
+        cat $f
+done >> $prefix.2.fastq.gz
+
+cp ../../2-error-correction/G4/G4.corrected.se.fastq.gz $prefix.se.fastq.gz
+for f in $(find ../../2-error-correction/ -name "*se*" | grep "G14\.corrected" | sort -n)
+do
+        cat $f
+done >> $prefix.se.fastq.gz
+
+cd ..
+scp -rp G1234_ec_ind 478358@viper.hull.ac.uk:~/

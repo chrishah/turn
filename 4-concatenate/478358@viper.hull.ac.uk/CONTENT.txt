@@ -1,0 +1,4 @@
+total 5.0G
+-rw-rw-r-- 1 1.1G May 27 21:01 G1234_ec_batches.merged.fastq.gz
+-rw------- 1 4.0G May 27 21:12 G1234_ec_batches.1.fastq.gz
+drwx------ 2 4.0K May 30 00:00 G1234_ec_batches

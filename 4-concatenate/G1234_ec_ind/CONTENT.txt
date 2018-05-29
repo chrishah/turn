@@ -1,0 +1,6 @@
+total 14G
+-rw-rw-r-- 1 1.1G May 24 15:46 G1234_ec_ind.merged.fastq.gz
+-rw-rw-r-- 1 5.8G May 24 15:52 G1234_ec_ind.1.fastq.gz
+-rw-rw-r-- 1 6.2G May 24 15:55 G1234_ec_ind.2.fastq.gz
+-rw-rw-r-- 1 529M May 24 15:57 G1234_ec_ind.se.fastq.gz
+-rw-rw-r-- 1  582 May 26 14:52 HOWTO

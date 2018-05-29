@@ -1,0 +1,6 @@
+total 14G
+-rw-rw-r-- 1  856 May 27 21:01 HOWTO
+-rw-rw-r-- 1 1.1G May 27 21:01 G1234_ec_batches.merged.fastq.gz
+-rw-rw-r-- 1 5.8G May 27 21:03 G1234_ec_batches.1.fastq.gz
+-rw-rw-r-- 1 6.2G May 27 21:05 G1234_ec_batches.2.fastq.gz
+-rw-rw-r-- 1 529M May 27 21:05 G1234_ec_batches.se.fastq.gz

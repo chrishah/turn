@@ -1,0 +1,6 @@
+total 20K
+drwxrwxr-x 2 4.0K May 30 00:00 G1234_ec_ind
+drwxrwxr-x 2 4.0K May 30 00:00 G14
+drwxrwxr-x 2 4.0K May 30 00:00 G14_ec_batches
+drwx------ 3 4.0K May 30 00:00 478358@viper.hull.ac.uk
+drwxrwxr-x 2 4.0K May 30 00:00 G1234_ec_batches
