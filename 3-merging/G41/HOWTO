@@ -1,0 +1,7 @@
+forw=/home/chrishah/WORKING/G_turnbulli/2-error-correction/G41/G14.corrected.1.fastq.gz
+reve=/home/chrishah/WORKING/G_turnbulli/2-error-correction/G41/G14.corrected.2.fastq.gz
+prefix=G14
+
+../usearch_mergepairs.sh $forw $reve $prefix
+
+

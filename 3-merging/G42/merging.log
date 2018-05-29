@@ -1,0 +1,266 @@
+
+#####
+Batch 1
+#####
+
+usearch v10.0.240_i86linux32, 4.0Gb RAM (32.7Gb total), 8 cores
+(C) Copyright 2013-17 Robert C. Edgar, all rights reserved.
+http://drive5.com/usearch
+
+License: christoph.hahn@uni-graz.at
+
+
+WARNING: -fastq_trimstagger is obsolete, staggers are always trimmed
+
+
+Merging
+  Fwd sub_1_1.fastq
+  Rev sub_1_2.fastq
+  Keep read labels
+
+00:00 71Mb      0.1% 0% merged00:01 137Mb     3.8% 12.9% merged00:02 137Mb     7.8% 12.9% merged00:03 137Mb    12.9% 13.0% merged00:04 137Mb    18.0% 13.0% merged00:05 137Mb    22.4% 13.0% merged00:06 137Mb    27.7% 13.0% merged00:07 137Mb    32.9% 13.0% merged00:08 137Mb    38.4% 13.0% merged00:09 137Mb    43.6% 13.0% merged00:10 137Mb    49.0% 13.0% merged00:11 137Mb    53.6% 13.1% merged00:12 137Mb    59.1% 13.1% merged00:13 137Mb    64.4% 13.1% merged00:14 137Mb    70.3% 13.1% merged00:15 137Mb    76.1% 13.1% merged00:16 137Mb    81.3% 13.1% merged00:17 137Mb    87.5% 13.2% merged00:18 137Mb    93.1% 13.2% merged00:19 137Mb    97.8% 13.2% merged00:19 137Mb   100.0% 13.2% merged
+
+Totals:
+   4000000  Pairs (4.0M)
+    528204  Merged (528.2k, 13.21%)
+    462705  Alignments with zero diffs (11.57%)
+     99430  Too many diffs (> 5) (2.49%)
+   3372366  No alignment found (84.31%)
+         0  Alignment too short (< 16) (0.00%)
+     69374  Staggered pairs (1.73%) merged & trimmed
+     54.65  Mean alignment length
+    191.36  Mean merged length
+      0.04  Mean fwd expected errors
+      0.05  Mean rev expected errors
+      0.13  Mean merged expected errors
+
+WARNING: Option -fastq_trimstagger not used
+
+
+#####
+Batch 2
+#####
+
+usearch v10.0.240_i86linux32, 4.0Gb RAM (32.7Gb total), 8 cores
+(C) Copyright 2013-17 Robert C. Edgar, all rights reserved.
+http://drive5.com/usearch
+
+License: christoph.hahn@uni-graz.at
+
+
+WARNING: -fastq_trimstagger is obsolete, staggers are always trimmed
+
+
+Merging
+  Fwd sub_2_1.fastq
+  Rev sub_2_2.fastq
+  Keep read labels
+
+00:00 71Mb      0.1% 0% merged00:01 137Mb     3.9% 13.5% merged00:02 137Mb     9.0% 13.6% merged00:03 137Mb    13.3% 13.6% merged00:04 137Mb    18.7% 13.6% merged00:05 137Mb    23.9% 13.6% merged00:06 137Mb    28.7% 13.7% merged00:07 137Mb    34.0% 13.7% merged00:08 137Mb    38.8% 13.8% merged00:09 137Mb    44.2% 13.8% merged00:10 137Mb    49.7% 13.8% merged00:11 137Mb    56.0% 13.8% merged00:12 137Mb    61.4% 13.7% merged00:13 137Mb    66.4% 13.6% merged00:14 137Mb    71.4% 13.6% merged00:15 137Mb    76.1% 13.6% merged00:16 137Mb    81.3% 13.5% merged00:17 137Mb    87.1% 13.5% merged00:18 137Mb    93.5% 13.5% merged00:19 137Mb    98.9% 13.5% merged00:19 137Mb   100.0% 13.5% merged
+
+Totals:
+   4000000  Pairs (4.0M)
+    539401  Merged (539.4k, 13.49%)
+    474033  Alignments with zero diffs (11.85%)
+     99087  Too many diffs (> 5) (2.48%)
+   3361512  No alignment found (84.04%)
+         0  Alignment too short (< 16) (0.00%)
+     69389  Staggered pairs (1.73%) merged & trimmed
+     54.84  Mean alignment length
+    191.40  Mean merged length
+      0.04  Mean fwd expected errors
+      0.05  Mean rev expected errors
+      0.13  Mean merged expected errors
+
+WARNING: Option -fastq_trimstagger not used
+
+
+#####
+Batch 3
+#####
+
+usearch v10.0.240_i86linux32, 4.0Gb RAM (32.7Gb total), 8 cores
+(C) Copyright 2013-17 Robert C. Edgar, all rights reserved.
+http://drive5.com/usearch
+
+License: christoph.hahn@uni-graz.at
+
+
+WARNING: -fastq_trimstagger is obsolete, staggers are always trimmed
+
+
+Merging
+  Fwd sub_3_1.fastq
+  Rev sub_3_2.fastq
+  Keep read labels
+
+00:00 71Mb      0.1% 0% merged00:01 137Mb     4.1% 13.2% merged00:02 137Mb     9.7% 13.3% merged00:03 137Mb    16.0% 13.3% merged00:04 137Mb    21.9% 13.3% merged00:05 137Mb    27.5% 13.4% merged00:06 137Mb    33.4% 13.4% merged00:07 137Mb    39.6% 13.4% merged00:08 137Mb    45.6% 13.5% merged00:09 137Mb    51.6% 13.5% merged00:10 137Mb    58.2% 13.5% merged00:11 137Mb    64.6% 13.5% merged00:12 137Mb    70.4% 13.5% merged00:13 137Mb    76.4% 13.5% merged00:14 137Mb    82.4% 13.6% merged00:15 137Mb    88.7% 13.6% merged00:16 137Mb    93.7% 13.6% merged00:17 137Mb    99.5% 13.6% merged00:17 137Mb   100.0% 13.6% merged
+
+Totals:
+   4000000  Pairs (4.0M)
+    545258  Merged (545.3k, 13.63%)
+    479770  Alignments with zero diffs (11.99%)
+     98212  Too many diffs (> 5) (2.46%)
+   3356530  No alignment found (83.91%)
+         0  Alignment too short (< 16) (0.00%)
+     69023  Staggered pairs (1.73%) merged & trimmed
+     54.78  Mean alignment length
+    191.59  Mean merged length
+      0.04  Mean fwd expected errors
+      0.05  Mean rev expected errors
+      0.13  Mean merged expected errors
+
+WARNING: Option -fastq_trimstagger not used
+
+
+#####
+Batch 4
+#####
+
+usearch v10.0.240_i86linux32, 4.0Gb RAM (32.7Gb total), 8 cores
+(C) Copyright 2013-17 Robert C. Edgar, all rights reserved.
+http://drive5.com/usearch
+
+License: christoph.hahn@uni-graz.at
+
+
+WARNING: -fastq_trimstagger is obsolete, staggers are always trimmed
+
+
+Merging
+  Fwd sub_4_1.fastq
+  Rev sub_4_2.fastq
+  Keep read labels
+
+00:00 71Mb      0.1% 0% merged00:01 137Mb     0.2% 13.4% merged00:02 137Mb     7.7% 14.0% merged00:03 137Mb    15.2% 13.8% merged00:04 137Mb    23.1% 13.5% merged00:05 137Mb    31.3% 13.3% merged00:06 137Mb    38.7% 13.3% merged00:07 137Mb    46.5% 13.2% merged00:08 137Mb    54.3% 13.2% merged00:09 137Mb    62.7% 13.2% merged00:10 137Mb    70.2% 13.2% merged00:11 137Mb    78.2% 13.2% merged00:12 137Mb    87.0% 13.2% merged00:13 137Mb    96.1% 13.2% merged00:13 137Mb   100.0% 13.2% merged
+
+Totals:
+   4000000  Pairs (4.0M)
+    529353  Merged (529.4k, 13.23%)
+    451728  Alignments with zero diffs (11.29%)
+    100295  Too many diffs (> 5) (2.51%)
+   3370352  No alignment found (84.26%)
+         0  Alignment too short (< 16) (0.00%)
+     69442  Staggered pairs (1.74%) merged & trimmed
+     54.77  Mean alignment length
+    191.25  Mean merged length
+      0.04  Mean fwd expected errors
+      0.05  Mean rev expected errors
+      0.13  Mean merged expected errors
+
+WARNING: Option -fastq_trimstagger not used
+
+
+#####
+Batch 5
+#####
+
+usearch v10.0.240_i86linux32, 4.0Gb RAM (32.7Gb total), 8 cores
+(C) Copyright 2013-17 Robert C. Edgar, all rights reserved.
+http://drive5.com/usearch
+
+License: christoph.hahn@uni-graz.at
+
+
+WARNING: -fastq_trimstagger is obsolete, staggers are always trimmed
+
+
+Merging
+  Fwd sub_5_1.fastq
+  Rev sub_5_2.fastq
+  Keep read labels
+
+00:00 71Mb      0.1% 0% merged00:01 137Mb     4.9% 13.6% merged00:02 137Mb    12.5% 13.5% merged00:03 137Mb    20.1% 13.5% merged00:04 137Mb    28.1% 13.6% merged00:05 137Mb    35.5% 13.6% merged00:06 137Mb    42.5% 13.6% merged00:07 137Mb    49.3% 13.7% merged00:08 137Mb    56.9% 13.7% merged00:09 137Mb    64.4% 13.7% merged00:10 137Mb    71.6% 13.6% merged00:11 137Mb    78.9% 13.6% merged00:12 137Mb    86.2% 13.5% merged00:13 137Mb    94.2% 13.5% merged00:13 137Mb   100.0% 13.5% merged
+
+Totals:
+   4000000  Pairs (4.0M)
+    538254  Merged (538.3k, 13.46%)
+    470892  Alignments with zero diffs (11.77%)
+     99339  Too many diffs (> 5) (2.48%)
+   3362407  No alignment found (84.06%)
+         0  Alignment too short (< 16) (0.00%)
+     70021  Staggered pairs (1.75%) merged & trimmed
+     54.78  Mean alignment length
+    191.31  Mean merged length
+      0.04  Mean fwd expected errors
+      0.05  Mean rev expected errors
+      0.13  Mean merged expected errors
+
+WARNING: Option -fastq_trimstagger not used
+
+
+#####
+Batch 6
+#####
+
+usearch v10.0.240_i86linux32, 4.0Gb RAM (32.7Gb total), 8 cores
+(C) Copyright 2013-17 Robert C. Edgar, all rights reserved.
+http://drive5.com/usearch
+
+License: christoph.hahn@uni-graz.at
+
+
+WARNING: -fastq_trimstagger is obsolete, staggers are always trimmed
+
+
+Merging
+  Fwd sub_6_1.fastq
+  Rev sub_6_2.fastq
+  Keep read labels
+
+00:00 71Mb      0.1% 0% merged00:01 137Mb     2.9% 13.1% merged00:02 137Mb    10.0% 13.2% merged00:03 137Mb    17.5% 13.2% merged00:04 137Mb    24.8% 13.2% merged00:05 137Mb    32.6% 13.3% merged00:06 137Mb    39.7% 13.3% merged00:07 137Mb    46.8% 13.3% merged00:08 137Mb    54.4% 13.3% merged00:09 137Mb    61.3% 13.4% merged00:10 137Mb    68.7% 13.4% merged00:11 137Mb    75.7% 13.4% merged00:12 137Mb    83.1% 13.5% merged00:13 137Mb    90.8% 13.5% merged00:14 137Mb    98.2% 13.5% merged00:14 137Mb   100.0% 13.5% merged
+
+Totals:
+   4000000  Pairs (4.0M)
+    540895  Merged (540.9k, 13.52%)
+    473746  Alignments with zero diffs (11.84%)
+     99831  Too many diffs (> 5) (2.50%)
+   3359274  No alignment found (83.98%)
+         0  Alignment too short (< 16) (0.00%)
+     70564  Staggered pairs (1.76%) merged & trimmed
+     54.73  Mean alignment length
+    191.30  Mean merged length
+      0.04  Mean fwd expected errors
+      0.05  Mean rev expected errors
+      0.13  Mean merged expected errors
+
+WARNING: Option -fastq_trimstagger not used
+
+
+#####
+Batch 7
+#####
+
+usearch v10.0.240_i86linux32, 4.0Gb RAM (32.7Gb total), 8 cores
+(C) Copyright 2013-17 Robert C. Edgar, all rights reserved.
+http://drive5.com/usearch
+
+License: christoph.hahn@uni-graz.at
+
+
+WARNING: -fastq_trimstagger is obsolete, staggers are always trimmed
+
+
+Merging
+  Fwd sub_7_1.fastq
+  Rev sub_7_2.fastq
+  Keep read labels
+
+00:00 71Mb      0.1% 0% merged00:01 137Mb    13.6% 14.0% merged00:02 137Mb    46.5% 14.0% merged00:03 137Mb    84.2% 14.0% merged00:03 137Mb   100.0% 14.0% merged
+
+Totals:
+    879189  Pairs (879.2k)
+    123444  Merged (123.4k, 14.04%)
+    109276  Alignments with zero diffs (12.43%)
+     21355  Too many diffs (> 5) (2.43%)
+    734390  No alignment found (83.53%)
+         0  Alignment too short (< 16) (0.00%)
+     14960  Staggered pairs (1.70%) merged & trimmed
+     54.89  Mean alignment length
+    191.72  Mean merged length
+      0.05  Mean fwd expected errors
+      0.05  Mean rev expected errors
+      0.12  Mean merged expected errors
+
+WARNING: Option -fastq_trimstagger not used
+

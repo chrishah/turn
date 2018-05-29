@@ -1,0 +1,10 @@
+total 36K
+-rwxrwxr-x 1 1.8K May 28 00:40 usearch_mergepairs.sh
+drwxrwxr-x 2 4.0K May 30 00:00 G42
+drwxrwxr-x 2 4.0K May 30 00:00 G41
+drwxrwxr-x 2 4.0K May 30 00:00 G1
+drwxrwxr-x 2 4.0K May 30 00:00 G43
+drwxrwxr-x 2 4.0K May 30 00:00 G4
+drwxrwxr-x 2 4.0K May 30 00:00 G3
+drwxrwxr-x 2 4.0K May 30 00:00 G1234
+drwxrwxr-x 2 4.0K May 30 00:00 G2

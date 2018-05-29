@@ -1,0 +1,6 @@
+total 3.3G
+-rw-rw-r-- 1  230 May 24 13:37 HOWTO
+-rw-rw-r-- 1 209M May 24 13:57 G4.merged.fastq.gz
+-rw-rw-r-- 1 1.5G May 24 14:15 G4_1.nm.fastq.gz
+-rw-rw-r-- 1 1.6G May 24 14:37 G4_2.nm.fastq.gz
+-rw-rw-r-- 1 9.0K May 24 14:37 merging.log
