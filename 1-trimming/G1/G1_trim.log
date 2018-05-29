@@ -1,0 +1,15 @@
+TrimmomaticPE: Started with arguments:
+ -threads 7 -phred33 ../raw_reads/G1_TCCGCGAA-ATAGAGGC_L002_R1_001.fastq.gz ../raw_reads/G1_TCCGCGAA-ATAGAGGC_L002_R2_001.fastq.gz G1/G1_forward.paired.fastq.gz G1/G1_forward.singletons.fastq.gz G1/G1_reverse.paired.fastq.gz G1/G1_reverse.singletons.fastq.gz ILLUMINACLIP::2:30:10 TRAILING:30 LEADING:30 SLIDINGWINDOW:5:20 MINLEN:100
+java.io.FileNotFoundException: /home/chrishah/WORKING/G_turnbulli/1-trimming (Is a directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.usadellab.trimmomatic.fasta.FastaParser.parse(FastaParser.java:54)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.loadSequences(IlluminaClippingTrimmer.java:110)
+	at org.usadellab.trimmomatic.trim.IlluminaClippingTrimmer.makeIlluminaClippingTrimmer(IlluminaClippingTrimmer.java:71)
+	at org.usadellab.trimmomatic.trim.TrimmerFactory.makeTrimmer(TrimmerFactory.java:32)
+	at org.usadellab.trimmomatic.Trimmomatic.createTrimmers(Trimmomatic.java:59)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:552)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
+Input Read Pairs: 18861637 Both Surviving: 17494194 (92.75%) Forward Only Surviving: 845504 (4.48%) Reverse Only Surviving: 275072 (1.46%) Dropped: 246867 (1.31%)
+TrimmomaticPE: Completed successfully

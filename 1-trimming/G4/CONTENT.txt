@@ -1,0 +1,6 @@
+total 3.6G
+-rw-rw-r-- 1 1.7G May 23 16:54 G4_forward.paired.fastq.gz
+-rw-rw-r-- 1 103M May 23 16:54 G4_forward.singletons.fastq.gz
+-rw-rw-r-- 1 1.8G May 23 16:54 G4_reverse.paired.fastq.gz
+-rw-rw-r-- 1 1.5K May 23 16:54 G4_trim.log
+-rw-rw-r-- 1  35M May 23 16:54 G4_reverse.singletons.fastq.gz

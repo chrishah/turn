@@ -1,0 +1,4 @@
+total 12K
+-rw-rw-r-- 1    6 May 30 00:06 README.md
+drwxrwxr-x 6 4.0K May 30 00:23 1-trimming
+-rwxrwxr-x 1  839 May 30 00:29 cleanup.sh
