@@ -3,6 +3,6 @@ total 28K
 -rw-rw-r-- 1   33 May 23 16:12 HOWTO
 -rw-rw-r-- 1  740 May 23 16:54 trimming.log
 drwxrwxr-x 2 4.0K May 30 00:23 G3
-drwxrwxr-x 2 4.0K May 30 00:23 G1
 drwxrwxr-x 2 4.0K May 30 00:24 G4
 drwxrwxr-x 2 4.0K May 30 00:28 G2
+drwxrwxr-x 2 4.0K May 30 00:34 G1

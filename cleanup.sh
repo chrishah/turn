@@ -31,7 +31,7 @@ do
 	then
 		echo -e "Adding to $dir/.gitignore:\n$newignore"
 	fi
-	ignore=$(echo -e "$ignore\n$newignore" | sort -n | uniq | grep "^$" -v)
+	ignore=$(echo -e "$ignore" | sort -n | uniq | grep "^$" -v)
 	echo -e "$ignore" > $dir/.gitignore
 done
 
