@@ -1,0 +1,16 @@
+total 3.3G
+-rwxrwxr-x 1 2.8K May 23 12:28 bless_iterate_over_ks.sh
+-rw-r--r-- 1 2.5K May 23 18:00 bless-k21.log
+-rw-r--r-- 1 2.5K May 23 18:37 bless-k23.log
+-rw-r--r-- 1  882 May 23 18:38 G3-k25.histo.qs
+-rw-r--r-- 1 4.1K May 23 18:40 G3-k25.kmc.00000.log
+-rw-r--r-- 1 5.0K May 23 18:40 G3-k25.histo.k-mer
+-rw-r--r-- 1   34 May 23 18:40 G3-k25.bf.size
+-rw-r--r-- 1 2.7M May 23 18:40 G3-k25.bf.data
+-rw-r--r-- 1 2.4K May 23 18:49 bless-k25.log
+-rw-r--r-- 1 2.4K May 23 19:00 bless-k27.log
+-rw-r--r-- 1 1.5K May 23 19:00 iterate.log
+-rw-rw-r-- 1 1.9K May 23 19:51 HOWTO.md
+-rw-rw-r-- 1 1.6G May 23 20:24 G3.corrected.1.fastq.gz
+-rw-rw-r-- 1 1.7G May 23 20:39 G3.corrected.2.fastq.gz
+-rw-rw-r-- 1 129M May 23 20:53 G3.corrected.se.fastq.gz

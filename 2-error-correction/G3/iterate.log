@@ -1,0 +1,34 @@
+
+Wed May 23 14:59:25 UTC 2018	Running bless with k=21
+
+Wed May 23 16:00:12 UTC 2018	Number of unique solid k-mers (k=21): Ns = 624730248
+Wed May 23 16:00:12 UTC 2018	Checking criterion: Ns / 4 ^ k < 0.0001 ..
+Wed May 23 16:00:12 UTC 2018	624730248 / 4 ^ 21 = 0.000142047212648322 -> NOT OK!
+removed 'G3-k21.bf.data'
+removed 'G3-k21.bf.size'
+removed 'G3-k21.corrected.fastq'
+removed 'G3-k21.histo.k-mer'
+removed 'G3-k21.histo.qs'
+removed 'G3-k21.kmc.00000.log'
+Wed May 23 16:00:13 UTC 2018	moving on to next k
+
+Wed May 23 16:00:13 UTC 2018	Running bless with k=23
+
+Wed May 23 16:37:36 UTC 2018	Number of unique solid k-mers (k=23): Ns = 630475606
+Wed May 23 16:37:36 UTC 2018	Checking criterion: Ns / 4 ^ k < 0.0001 ..
+Wed May 23 16:37:36 UTC 2018	630475606 / 4 ^ 23 = 8.95959723834494e-06 -> OK!
+Wed May 23 16:37:36 UTC 2018	Will now search for the k-mer length at which the number of corrected bases is maximal
+Wed May 23 16:37:36 UTC 2018	moving on to next k
+
+Wed May 23 16:37:36 UTC 2018	Running bless with k=25
+
+Wed May 23 16:49:26 UTC 2018	Checking number of corrected errors - k=23 vs. k=25
+Wed May 23 16:49:26 UTC 2018	25 is the winner - 4559623 < 13163334
+Wed May 23 16:49:26 UTC 2018	moving on to next k
+
+Wed May 23 16:49:26 UTC 2018	Running bless with k=27
+
+Wed May 23 17:00:45 UTC 2018	Checking number of corrected errors - k=25 vs. k=27
+Wed May 23 17:00:45 UTC 2018	25 is the winner - 13163334 > 11988220
+Wed May 23 17:00:45 UTC 2018	Done!
+

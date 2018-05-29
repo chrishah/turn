@@ -1,0 +1,74 @@
+
+----------------------------------------------------------------------
+           BLESS: Bloom-filter based error correction tool
+----------------------------------------------------------------------
+CONTACT : Yun Heo (yunheo1@illinois.edu)
+VERSION: 1.02
+DATE   : Jun. 10, 2015
+----------------------------------------------------------------------
+
+Parsing arguments
+     Number of nodes              : 1
+     Number of threads per node   : 8
+     Max memory usage for KMC     : 4 GB
+     Read file name               : all_reads-batch-00000006.fastq
+     k-mer length                 : 23
+     Target false positive prob.  : 0.001
+     Random seed                  : 0
+     k-mer occurence threshold    : Not specified
+     Read extension amount        : 5
+     Load given Bloom filter data : Off
+     No trim reads                : On
+     Gzip corrected reads         : Off
+     Parsing arguments            : done
+
+Checking input read files
+     Number of reads           : 42831602
+     Quality score offset      : 33
+     Quality score threshold   : 34
+     Low quality score threhold: 16
+     Checking input read files : done
+
+Counting the number of k-mers
+     k-mer occurrence threshold   : 12
+     Number of unique solid k-mers: 71642171
+     Counting the number of k-mers: done
+
+Determining Bloom filter parameters
+     Bloom filter
+     Number of keys           : 71642171
+     Bit-vector size          : 134 MB
+     Number of hash functions : 6
+     Determining Bloom filter parameters: done
+
+Programming k-mers to the Bloom filter
+     Programming k-mers to the Bloom filter: done
+
+Correcting errors in reads
+     Number of corrected errors: 5467596
+     Number of trimmed bases   : 0
+     Number of corrected reads : 1013524
+     Correcting errors in reads: done
+
+Merging output files
+     Merging output files: done
+
+Running Time
+     Checking reads
+          Start: Fri May 25 20:05:53 2018
+          End  : Fri May 25 20:06:00 2018
+     Counting the number of unique solid k-mers
+          Start: Fri May 25 20:06:00 2018
+          End  : Fri May 25 20:07:17 2018
+     Programming k-mers into the Bloom filter
+          Start: Fri May 25 20:07:17 2018
+          End  : Fri May 25 20:07:34 2018
+     Correcting errors in reads
+          Start: Fri May 25 20:07:34 2018
+          End  : Fri May 25 20:19:20 2018
+     Merging output files
+          Start: Fri May 25 20:19:20 2018
+          End  : Fri May 25 20:19:20 2018
+
+BLESS is successfully completed
+

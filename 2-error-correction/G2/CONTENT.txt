@@ -1,0 +1,21 @@
+total 4.3G
+-rwxrwxr-x 1 2.8K May 23 12:27 bless_iterate_over_ks.sh
+-rw-r--r-- 1 2.5K May 23 21:03 bless-k21.log
+-rw-r--r-- 1 2.5K May 23 21:45 bless-k23.log
+-rw-r--r-- 1 2.5K May 23 22:07 bless-k25.log
+-rw-r--r-- 1 2.5K May 23 22:30 bless-k27.log
+-rw-r--r-- 1 2.5K May 23 23:26 bless-k29.log
+-rw-r--r-- 1 2.5K May 24 00:15 bless-k31.log
+-rw-r--r-- 1 2.5K May 24 01:18 bless-k33.log
+-rw-r--r-- 1  882 May 24 01:22 G2-k35.histo.qs
+-rw-r--r-- 1 4.7K May 24 01:30 G2-k35.kmc.00000.log
+-rw-r--r-- 1 5.0K May 24 01:32 G2-k35.histo.k-mer
+-rw-r--r-- 1   34 May 24 01:32 G2-k35.bf.size
+-rw-r--r-- 1 2.2M May 24 01:32 G2-k35.bf.data
+-rw-r--r-- 1 2.4K May 24 02:09 bless-k35.log
+-rw-r--r-- 1 2.4K May 24 03:49 bless-k37.log
+-rw-r--r-- 1 2.7K May 24 03:49 iterate.log
+-rw-rw-r-- 1 1.8K May 24 12:28 HOWTO.md
+-rw-rw-r-- 1 2.0G May 24 12:52 G2.corrected.1.fastq.gz
+-rw-rw-r-- 1 2.2G May 24 13:03 G2.corrected.2.fastq.gz
+-rw-rw-r-- 1 157M May 24 13:08 G2.corrected.se.fastq.gz
