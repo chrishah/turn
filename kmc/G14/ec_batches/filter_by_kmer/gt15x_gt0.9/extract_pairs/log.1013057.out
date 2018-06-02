@@ -1,0 +1,63 @@
+
+[Fri Jun  1 18:17:43 UTC 2018]	START
+
+
+[Fri Jun  1 18:17:43 UTC 2018]	Extracting IDs for paired/single end reads
+
+
+[Fri Jun  1 18:21:08 UTC 2018]	Extracting paired/single end reads from '../G14-ec-G4-filtered-k31-kgt15-pgt0.9-plt1.0.fastq.gz'
+
+Your system seems to be older or have some quirks with locale settings.
+Using the LC_ALL=C workaround.
+If you don't want that, fix your system ;-)
+Loading from fastq, saving to: fastq
+Loading data from fastq ...Localtime: Fri Jun  1 18:21:49 2018
+Loading data from FASTQ file: ../G14-ec-G4-filtered-k31-kgt15-pgt0.9-plt1.0.fastq.gz
+(sorry, no progress indicator for that, possible only with zlib >=1.34)
+
+
+Done.
+Loaded 46100660 reads, Localtime: Fri Jun  1 18:25:01 2018
+Looking at FASTQ type ... told it to be FASTQ-33
+Running quality values adaptation ... done.
+Sorting pool ...done.
+ done.
+
+Data conversion process finished, no obvious errors encountered.
+Your system seems to be older or have some quirks with locale settings.
+Using the LC_ALL=C workaround.
+If you don't want that, fix your system ;-)
+Loading from fastq, saving to: fastq
+Loading data from fastq ...Localtime: Fri Jun  1 18:30:57 2018
+Loading data from FASTQ file: ../G14-ec-G4-filtered-k31-kgt15-pgt0.9-plt1.0.fastq.gz
+(sorry, no progress indicator for that, possible only with zlib >=1.34)
+
+
+Done.
+Loaded 46100660 reads, Localtime: Fri Jun  1 18:34:08 2018
+Looking at FASTQ type ... told it to be FASTQ-33
+Running quality values adaptation ... done.
+Sorting pool ...done.
+ done.
+
+Data conversion process finished, no obvious errors encountered.
+Your system seems to be older or have some quirks with locale settings.
+Using the LC_ALL=C workaround.
+If you don't want that, fix your system ;-)
+Loading from fastq, saving to: fastq
+Loading data from fastq ...Localtime: Fri Jun  1 18:39:25 2018
+Loading data from FASTQ file: ../G14-ec-G4-filtered-k31-kgt15-pgt0.9-plt1.0.fastq.gz
+(sorry, no progress indicator for that, possible only with zlib >=1.34)
+
+
+Done.
+Loaded 46100660 reads, Localtime: Fri Jun  1 18:42:36 2018
+Looking at FASTQ type ... told it to be FASTQ-33
+Running quality values adaptation ... done.
+Sorting pool ...done.
+ done.
+
+Data conversion process finished, no obvious errors encountered.
+
+[Fri Jun  1 19:17:29 UTC 2018]	DONE!
+

@@ -1,0 +1,3 @@
+total 3.0K
+-rwxrwxr-x 1  793 Aug  7  2014 split_good_pairs_singletons.pl
+-rwxr-xr-x 1 2.8K Jun  2 20:55 usearch_mergepairs.sh

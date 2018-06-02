@@ -1,0 +1,10 @@
+Filtering reads: 
+/home/478358/WORKING/G_turnbulli/reads/G1/ec-G4//G14.corrected.1.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G1/ec-G4//G14.corrected.2.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G1/ec-G4//G14.corrected.se.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G4/ec//G4.corrected.1.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G4/ec//G4.corrected.2.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G4/ec//G4.corrected.se.fastq.gz
+
+kmc_tools filter /home/478358/WORKING/G_turnbulli/kmc/G14/ec_batches/G14-ec-G4-k31  -ci15  @fofn.txt  -ci0.9  -cx1.0  G14-ec-G4-filtered-k31-kgt15-pgt0.9-plt1.0.fastq
+

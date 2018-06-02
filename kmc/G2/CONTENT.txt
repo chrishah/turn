@@ -1,0 +1,3 @@
+total 0
+drwxr-xr-x 2 15 May 29 14:10 ec
+drwxr-xr-x 2 15 May 29 14:10 trimmed

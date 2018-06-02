@@ -1,0 +1,3 @@
+/home/478358/WORKING/G_turnbulli/reads/G2/ec//G2.corrected.1.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G2/ec//G2.corrected.2.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G2/ec//G2.corrected.se.fastq.gz

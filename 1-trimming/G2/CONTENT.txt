@@ -1,6 +1,6 @@
 total 4.4G
--rw-rw-r-- 1 2.1G May 23 16:30 G2_forward.paired.fastq.gz
--rw-rw-r-- 1 112M May 23 16:30 G2_forward.singletons.fastq.gz
--rw-rw-r-- 1 2.2G May 23 16:30 G2_reverse.paired.fastq.gz
--rw-rw-r-- 1 1.5K May 23 16:30 G2_trim.log
--rw-rw-r-- 1  48M May 23 16:30 G2_reverse.singletons.fastq.gz
+-rw-rw-r-- 1  48M May 23 14:30 G2_reverse.singletons.fastq.gz
+-rw-rw-r-- 1 2.2G May 23 14:30 G2_reverse.paired.fastq.gz
+-rw-rw-r-- 1 112M May 23 14:30 G2_forward.singletons.fastq.gz
+-rw-rw-r-- 1 2.1G May 23 14:30 G2_forward.paired.fastq.gz
+-rw-r--r-- 1 1.5K May 29 23:29 G2_trim.log

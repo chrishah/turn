@@ -1,0 +1,8 @@
+total 4.1G
+-rw-r--r-- 1  803 Jun  1 15:40 HOWTO.md
+-rw-r--r-- 1 1.1K Jun  1 18:17 extract_pairs.slurm.sh
+-rw-r--r-- 1 1.9G Jun  1 18:30 G14-ec-G4-filtered-k31-kgt15-pgt0.9.1.fastq.gz
+-rw-r--r-- 1 2.0G Jun  1 18:39 G14-ec-G4-filtered-k31-kgt15-pgt0.9.2.fastq.gz
+-rw-r--r-- 1 283M Jun  1 18:44 G14-ec-G4-filtered-k31-kgt15-pgt0.9.se.fastq.gz
+-rw-r--r-- 1 2.3K Jun  1 19:17 log.1013057.out
+-rw-r--r-- 1 1.1K Jun  1 19:17 log.1013057.err

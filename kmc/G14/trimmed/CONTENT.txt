@@ -1,0 +1,18 @@
+total 9.4G
+-rw-r--r-- 1 5.4G May 29 13:54 G14-trimmed-k31.kmc_suf
+-rw-r--r-- 1  65M May 29 13:54 G14-trimmed-k31.kmc_pre
+-rw-r--r-- 1 5.3K May 29 13:54 log.kmc.1012126.out
+-rw-r--r-- 1  849 May 29 13:54 log.kmc.1012126.err
+-rw-r--r-- 1  74K May 29 13:54 G14-trimmed-k31.hist.txt
+-rw-r--r-- 1 7.0K May 29 13:54 G14-trimmed-k31-distribution.pdf
+-rw-r--r-- 1 7.2K May 29 13:54 G14-trimmed-k31-distribution-full.pdf
+-rw-r--r-- 1 5.4K May 29 14:09 run_kmc.slurm.sh
+-rw-r--r-- 1  640 May 29 14:09 fofn.txt
+-rw-r--r-- 1 3.9G May 29 14:13 G14-trimmed-k21.kmc_suf
+-rw-r--r-- 1 4.1M May 29 14:13 G14-trimmed-k21.kmc_pre
+-rw-r--r-- 1 3.3K May 29 14:13 plot.freq.R
+-rw-r--r-- 1 5.3K May 29 14:13 log.kmc.1012143.out
+-rw-r--r-- 1  849 May 29 14:13 log.kmc.1012143.err
+-rw-r--r-- 1  75K May 29 14:13 G14-trimmed-k21.hist.txt
+-rw-r--r-- 1 7.0K May 29 14:13 G14-trimmed-k21-distribution.pdf
+-rw-r--r-- 1 7.3K May 29 14:13 G14-trimmed-k21-distribution-full.pdf

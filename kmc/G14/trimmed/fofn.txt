@@ -1,0 +1,8 @@
+/home/478358/WORKING/G_turnbulli/reads/G1/trimmed//G1_forward.paired.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G1/trimmed//G1_forward.singletons.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G1/trimmed//G1_reverse.paired.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G1/trimmed//G1_reverse.singletons.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G4/trimmed//G4_forward.paired.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G4/trimmed//G4_forward.singletons.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G4/trimmed//G4_reverse.paired.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G4/trimmed//G4_reverse.singletons.fastq.gz

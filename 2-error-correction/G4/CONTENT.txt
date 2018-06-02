@@ -1,14 +1,14 @@
 total 3.7G
--rwxrwxr-x 1 2.8K May 23 12:29 bless_iterate_over_ks.sh
--rw-r--r-- 1  882 May 23 17:12 G4-k21.histo.qs
--rw-r--r-- 1 4.2K May 23 17:26 G4-k21.kmc.00000.log
--rw-r--r-- 1 5.0K May 23 17:26 G4-k21.histo.k-mer
--rw-r--r-- 1   39 May 23 17:27 G4-k21.bf.size
--rw-r--r-- 1 134M May 23 17:27 G4-k21.bf.data
--rw-r--r-- 1 2.5K May 23 18:00 bless-k21.log
--rw-r--r-- 1 2.5K May 23 18:36 bless-k23.log
--rw-r--r-- 1  689 May 23 18:36 iterate.log
--rw-rw-r-- 1 1.9K May 23 19:52 HOWTO.md
--rw-rw-r-- 1 1.7G May 23 20:27 G4.corrected.1.fastq.gz
--rw-rw-r-- 1 1.8G May 23 20:44 G4.corrected.2.fastq.gz
--rw-rw-r-- 1 136M May 23 20:59 G4.corrected.se.fastq.gz
+-rw-r--r-- 1 134M May 23 15:27 G4-k21.bf.data
+-rw-rw-r-- 1 1.7G May 23 18:27 G4.corrected.1.fastq.gz
+-rw-rw-r-- 1 1.8G May 23 18:44 G4.corrected.2.fastq.gz
+-rw-rw-r-- 1 136M May 23 18:59 G4.corrected.se.fastq.gz
+-rw-r--r-- 1 5.0K May 29 23:29 G4-k21.histo.k-mer
+-rw-r--r-- 1   39 May 29 23:29 G4-k21.bf.size
+-rw-r--r-- 1  689 May 29 23:29 iterate.log
+-rw-r--r-- 1 1.9K May 29 23:29 HOWTO.md
+-rw-r--r-- 1 4.2K May 29 23:29 G4-k21.kmc.00000.log
+-rw-r--r-- 1  882 May 29 23:29 G4-k21.histo.qs
+-rw-r--r-- 1 2.5K May 29 23:29 bless-k23.log
+-rw-r--r-- 1 2.5K May 29 23:29 bless-k21.log
+-rwxr-xr-x 1 2.8K May 29 23:29 bless_iterate_over_ks.sh

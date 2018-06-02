@@ -1,0 +1,1 @@
+/home/478358/WORKING/G_turnbulli/kmc/G14/ec_batches/filter_by_kmer/gt15x_gt0.9/G14-ec-G4-filtered-k31-kgt15-pgt0.9-plt1.0.fastq.gz

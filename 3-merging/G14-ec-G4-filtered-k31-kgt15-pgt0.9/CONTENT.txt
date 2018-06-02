@@ -1,0 +1,9 @@
+total 3.6G
+-rw-r--r-- 1  742 May 30 22:28 usearch_merge.slurm.sh
+-rw-r--r-- 1  424 Jun  1 15:05 HOWTO
+-rw-r--r-- 1 220M Jun  2 21:39 G14-ec-G4-filtered-k31-kgt15-pgt0.9.merged.fastq.gz
+-rw-r--r-- 1 1.1K Jun  2 22:05 log.1013088.err
+-rw-r--r-- 1 1.7G Jun  2 22:05 G14-ec-G4-filtered-k31-kgt15-pgt0.9_1.nm.fastq.gz
+-rw-r--r-- 1 8.9K Jun  2 22:19 merging.log
+-rw-r--r-- 1 1.1K Jun  2 22:19 log.1013088.out
+-rw-r--r-- 1 1.8G Jun  2 22:19 G14-ec-G4-filtered-k31-kgt15-pgt0.9_2.nm.fastq.gz

@@ -1,6 +1,6 @@
 total 3.1G
--rw-rw-r-- 1  230 May 24 14:04 HOWTO
--rw-rw-r-- 1 215M May 24 14:25 G3.merged.fastq.gz
--rw-rw-r-- 1 1.4G May 24 14:37 G3_1.nm.fastq.gz
--rw-rw-r-- 1 1.5G May 24 14:50 G3_2.nm.fastq.gz
--rw-rw-r-- 1 7.6K May 24 14:50 merging.log
+-rw-rw-r-- 1 215M May 24 12:25 G3.merged.fastq.gz
+-rw-rw-r-- 1 1.4G May 24 12:37 G3_1.nm.fastq.gz
+-rw-rw-r-- 1 1.5G May 24 12:50 G3_2.nm.fastq.gz
+-rw-r--r-- 1 7.6K May 29 23:29 merging.log
+-rw-r--r-- 1  230 May 29 23:29 HOWTO

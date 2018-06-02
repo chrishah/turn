@@ -1,10 +1,11 @@
-total 36K
--rwxrwxr-x 1 1.8K May 28 00:40 usearch_mergepairs.sh
-drwxrwxr-x 2 4.0K May 30 00:00 G42
-drwxrwxr-x 2 4.0K May 30 00:00 G41
-drwxrwxr-x 2 4.0K May 30 00:00 G1
-drwxrwxr-x 2 4.0K May 30 00:00 G43
-drwxrwxr-x 2 4.0K May 30 00:00 G4
-drwxrwxr-x 2 4.0K May 30 00:00 G3
-drwxrwxr-x 2 4.0K May 30 00:00 G1234
-drwxrwxr-x 2 4.0K May 30 00:00 G2
+total 1.5K
+drwxrwxr-x 2   17 May 29 22:00 G43
+drwxrwxr-x 2    7 May 29 22:00 G42
+drwxrwxr-x 2    7 May 29 22:00 G41
+drwxrwxr-x 2    7 May 29 22:00 G4
+drwxrwxr-x 2    7 May 29 22:00 G3
+drwxrwxr-x 2    7 May 29 22:00 G2
+drwxrwxr-x 2    7 May 29 22:00 G1
+-rwxr-xr-x 1 1.8K May 29 23:29 usearch_mergepairs.sh
+drwxrwxr-x 2    7 Jun  2 22:24 G1234
+drwxr-xr-x 2   11 Jun  2 22:28 G14-ec-G4-filtered-k31-kgt15-pgt0.9

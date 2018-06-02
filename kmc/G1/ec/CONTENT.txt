@@ -1,0 +1,24 @@
+total 4.6G
+-rw-r--r-- 1  65M May 29 13:49 G1-ec-k31.kmc_pre
+-rw-r--r-- 1 4.2K May 29 13:49 log.kmc.1012122.out
+-rw-r--r-- 1  849 May 29 13:49 log.kmc.1012122.err
+-rw-r--r-- 1  72K May 29 13:49 G1-ec-k31.hist.txt
+-rw-r--r-- 1 6.1K May 29 13:49 G1-ec-k31-distribution.pdf
+-rw-r--r-- 1 7.1K May 29 13:49 G1-ec-k31-distribution-full.pdf
+-rw-r--r-- 1  208 May 29 14:08 fofn.txt
+-rw-r--r-- 1 2.0G May 29 14:10 G1-ec-k21.kmc_suf
+-rw-r--r-- 1 4.1M May 29 14:10 G1-ec-k21.kmc_pre
+-rw-r--r-- 1 3.3K May 29 14:10 plot.freq.R
+-rw-r--r-- 1 4.2K May 29 14:10 log.kmc.1012139.out
+-rw-r--r-- 1  849 May 29 14:10 log.kmc.1012139.err
+-rw-r--r-- 1  73K May 29 14:10 G1-ec-k21.hist.txt
+-rw-r--r-- 1 6.2K May 29 14:10 G1-ec-k21-distribution.pdf
+-rw-r--r-- 1 7.1K May 29 14:10 G1-ec-k21-distribution-full.pdf
+-rw-r--r-- 1 1.4G May 29 14:25 G1-ec_kmer-k21-dump.txt
+-rw-r--r-- 1 5.3K May 29 14:34 run_kmc.slurm.sh
+-rw-r--r-- 1    0 May 29 14:38 log.kmer-filter.1012154.out
+-rw-r--r-- 1    0 May 29 14:38 log.kmer-filter.1012154.err
+-rw-r--r-- 1 1.1G May 29 14:40 filtered.fastq.gz
+-rw-r--r-- 1  649 May 29 15:34 filter_reads.slurm.sh
+drwxr-xr-x 2   10 May 29 15:36 frequency_filtered
+-rw-r--r-- 1 116M Jun  2 22:32 G1-ec-k31.kmc_suf

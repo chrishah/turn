@@ -1,0 +1,21 @@
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = "en_US.UTF-8",
+	LC_ALL = "en_US.UTF-8",
+	LC_PAPER = "en_US.UTF-8",
+	LC_ADDRESS = "en_US.UTF-8",
+	LC_MONETARY = "en_US.UTF-8",
+	LC_NUMERIC = "en_US.UTF-8",
+	LC_TELEPHONE = "en_US.UTF-8",
+	LC_IDENTIFICATION = "en_US.UTF-8",
+	LC_MEASUREMENT = "en_US.UTF-8",
+	LC_TIME = "en_US.UTF-8",
+	LC_NAME = "en_US.UTF-8",
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+/bin/sh: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+G14-ec-G4-filtered-k31-kgt15-pgt0.9.1.fastq:	 70.6% -- replaced with G14-ec-G4-filtered-k31-kgt15-pgt0.9.1.fastq.gz
+G14-ec-G4-filtered-k31-kgt15-pgt0.9.2.fastq:	 68.3% -- replaced with G14-ec-G4-filtered-k31-kgt15-pgt0.9.2.fastq.gz
+G14-ec-G4-filtered-k31-kgt15-pgt0.9.se.fastq:	 67.1% -- replaced with G14-ec-G4-filtered-k31-kgt15-pgt0.9.se.fastq.gz

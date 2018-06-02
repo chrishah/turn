@@ -1,6 +1,6 @@
 total 3.4G
--rw-rw-r-- 1 1.6G May 23 16:40 G3_forward.paired.fastq.gz
--rw-rw-r-- 1  95M May 23 16:40 G3_forward.singletons.fastq.gz
--rw-rw-r-- 1 1.7G May 23 16:40 G3_reverse.paired.fastq.gz
--rw-rw-r-- 1 1.5K May 23 16:40 G3_trim.log
--rw-rw-r-- 1  36M May 23 16:40 G3_reverse.singletons.fastq.gz
+-rw-rw-r-- 1  36M May 23 14:40 G3_reverse.singletons.fastq.gz
+-rw-rw-r-- 1 1.7G May 23 14:40 G3_reverse.paired.fastq.gz
+-rw-rw-r-- 1  95M May 23 14:40 G3_forward.singletons.fastq.gz
+-rw-rw-r-- 1 1.6G May 23 14:40 G3_forward.paired.fastq.gz
+-rw-r--r-- 1 1.5K May 29 23:29 G3_trim.log

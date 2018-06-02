@@ -1,0 +1,4 @@
+/home/478358/WORKING/G_turnbulli/reads/G2/trimmed//G2_forward.paired.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G2/trimmed//G2_forward.singletons.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G2/trimmed//G2_reverse.paired.fastq.gz
+/home/478358/WORKING/G_turnbulli/reads/G2/trimmed//G2_reverse.singletons.fastq.gz

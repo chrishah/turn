@@ -1,6 +1,6 @@
 total 6.2G
--rw-rw-r-- 1  838 May 29 00:35 HOWTO
--rw-rw-r-- 1 448M May 29 00:35 G14_ec_batches.merged.fastq.gz
--rw-rw-r-- 1 2.7G May 29 00:35 G14_ec_batches.1.fastq.gz
--rw-rw-r-- 1 2.9G May 29 00:36 G14_ec_batches.2.fastq.gz
--rw-rw-r-- 1 244M May 29 00:36 G14_ec_batches.se.fastq.gz
+-rw-rw-r-- 1 448M May 28 22:35 G14_ec_batches.merged.fastq.gz
+-rw-rw-r-- 1 2.7G May 28 22:35 G14_ec_batches.1.fastq.gz
+-rw-rw-r-- 1 2.9G May 28 22:36 G14_ec_batches.2.fastq.gz
+-rw-rw-r-- 1 244M May 28 22:36 G14_ec_batches.se.fastq.gz
+-rw-r--r-- 1  838 May 29 23:29 HOWTO
