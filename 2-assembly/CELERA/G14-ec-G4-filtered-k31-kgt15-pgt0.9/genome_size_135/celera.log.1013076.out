@@ -1,0 +1,13 @@
+
+[Fri Jun  1 22:27:29 UTC 2018]
+### Prepare data ###
+
+
+[Fri Jun  1 22:27:31 UTC 2018]
+### ASSEMBLE ###
+
+/home/478358/src/CELERA/wgs-8.3rc2/Linux-amd64/bin/runCA -p G14-ec-G4-filtered-k31-kgt15-pgt0.9 -d G14-ec-G4-filtered-k31-kgt15-pgt0.9.assembly -s Celera_VIPER_highmem.spec pe.frg se.frg
+
+[Sat Jun  2 10:33:30 UTC 2018]
+### DONE ###
+

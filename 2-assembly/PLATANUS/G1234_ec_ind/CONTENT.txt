@@ -1,0 +1,2 @@
+total 1.0K
+-rw-r--r-- 1 1.4K May 28 07:29 run_Platanus.slurm.sh

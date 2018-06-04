@@ -1,0 +1,5 @@
+total 526K
+-rw-r--r-- 1  901 May 29 08:28 run_Spades.slurm.sh
+-rw-r--r-- 1    0 May 30 17:41 spades.log.1011931.err
+drwxr-xr-x 9   17 May 31 09:26 assembly
+-rw-r--r-- 1 526K May 31 09:26 spades.log.1011931.out

@@ -1,0 +1,7 @@
+
+=== Error correction and assembling warnings:
+ * 1:34:32.449    50G / 71G   WARN    General                 (kmer_coverage_model.cpp   : 382)   Failed to determine erroneous kmer threshold. Threshold set to: 3
+ * 2:05:34.806    44G / 77G   WARN    General                 (kmer_coverage_model.cpp   : 382)   Failed to determine erroneous kmer threshold. Threshold set to: 4
+ * 2:32:43.143    56G / 88G   WARN    General                 (kmer_coverage_model.cpp   : 382)   Failed to determine erroneous kmer threshold. Threshold set to: 17
+ * 4:38:05.388    47G / 88G   WARN    General                 (simplification.cpp        : 530)   The determined erroneous connection coverage threshold may be determined improperly
+======= Warnings saved to /home/478358/WORKING/G_turnbulli/assemblies/SPADES/default/assembly/warnings.log

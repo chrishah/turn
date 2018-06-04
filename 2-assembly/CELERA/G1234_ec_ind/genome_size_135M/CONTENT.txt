@@ -1,0 +1,3 @@
+total 3.0K
+-rw-r----- 1 2.1K May 28 07:23 Celera_VIPER_highmem.spec
+-rw-r--r-- 1 1.3K May 28 07:32 run_Celera.slurm.sh

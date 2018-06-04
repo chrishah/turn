@@ -1,0 +1,10 @@
+total 1.7G
+-rw-r--r-- 1 226M May 30 13:59 G14_ec_batches.utg.qv
+-rw-r--r-- 1 583M May 30 13:59 G14_ec_batches.utg.qual
+-rw-r--r-- 1 226M May 30 13:59 G14_ec_batches.utg.fasta
+-rw-r--r-- 1  62M May 30 13:59 G14_ec_batches.ctg.fasta
+-rw-r--r-- 1  62M May 30 13:59 G14_ec_batches.scf.qv
+-rw-r--r-- 1 181M May 30 13:59 G14_ec_batches.scf.qual
+-rw-r--r-- 1  62M May 30 13:59 G14_ec_batches.scf.fasta
+-rw-r--r-- 1  62M May 30 13:59 G14_ec_batches.ctg.qv
+-rw-r--r-- 1 181M May 30 13:59 G14_ec_batches.ctg.qual

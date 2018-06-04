@@ -1,10 +1,7 @@
 total 512
-drwxrwxr-x 11  12 May 29 22:00 3-merging
-drwxrwxr-x 10  12 May 29 22:00 2-error-correction
-drwxrwxr-x  2  10 May 29 22:47 raw_reads
-drwxrwxr-x  6   9 May 29 22:48 1-trimming
--rwxr-xr-x  1 827 May 29 23:29 cleanup.sh
--rw-rw-r--  1 100 May 30 07:30 README.md
-drwxr-xr-x  7   5 Jun  2 08:28 kmc
-drwxrwxr-x  6   6 Jun  2 20:25 4-concatenate
-drwxr-xr-x  2   4 Jun  2 22:21 scripts
+drwxr-xr-x 5   3 May 28 07:23 2-assembly
+drwxrwxr-x 2  10 May 29 22:47 0-raw_reads
+-rwxr-xr-x 1 827 May 29 23:29 cleanup.sh
+-rw-rw-r-- 1 100 May 30 07:30 README.md
+drwxr-xr-x 2   4 Jun  2 22:21 scripts
+drwxr-xr-x 7   5 Jun  4 07:42 1-pre_processing

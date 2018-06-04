@@ -1,0 +1,8 @@
+total 172K
+-rw-r----- 1 2.1K May 30 22:39 Celera_VIPER_highmem.spec
+-rw-r--r-- 1 1.5K Jun  1 22:26 run_Celera.slurm.sh
+-rw-r--r-- 1  678 Jun  1 22:27 se.frg
+-rw-r--r-- 1  802 Jun  1 22:27 pe.frg
+-rw-r--r-- 1  337 Jun  2 10:33 celera.log.1013076.out
+-rw-r--r-- 1 168K Jun  2 10:33 celera.log.1013076.err
+drwxr-xr-x 4    2 Jun  4 07:16 G14-ec-G4-filtered-k31-kgt15-pgt0.9.assembly

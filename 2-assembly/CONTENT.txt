@@ -1,0 +1,4 @@
+total 0
+drwxr-xr-x 8 6 May 30 22:29 SPADES
+drwxr-xr-x 8 6 May 30 22:35 PLATANUS
+drwxr-xr-x 7 5 May 30 22:36 CELERA

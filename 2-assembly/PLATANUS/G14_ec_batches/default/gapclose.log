@@ -1,0 +1,35 @@
+Platanus version: 1.2.4
+platanus gap_close -o G14_ec_batches -c G14_ec_batches_scaffold.fa -f ./reads.me.fastq -IP1 ./reads.1.fastq ./reads.2.fastq -t 40 
+
+K=32, making hash table...
+[SINGLE_LIBRARY]
+mapping reads that cover small gaps...
+[PAIR_LIBRARY 1]
+mapping reads...
+TOTAL_PAIR = 33099742
+MAPPED_IN_SAME_CONTIG = 14258775 (0.430782)
+estimating insert-size...
+PEAK = 337
+LOWER_LIMIT (permissible range to estimate AVE_INS)= 84
+UPPER_LIMIT (permissible range to estimate AVE_INS)= 590
+AVE_INS = 364
+SD_INS = 74
+mapping reads that cover small gaps...
+making hash table of gaps...
+making consensus sequences to close small gaps...
+NUM_GAP=8028
+NUM_CLOSED_GAP=2516
+[PAIR_LIBRARY 1]
+saving reads covering gaps...
+loading reads covering gaps...
+assembling localized reads...
+NUM_GAPS = 5512
+NUM_NOT_CLOSED_GAPS (too many reads are mapped comapering to coverage)= 56
+NUM_CLOSED_GAPS_USING_DE_BRUIJN = 3869
+NUM_CLOSED_GAPS_USING_OVERLAP_LAYOUT_CONSENSUS = 311
+TOTAL_NUM_CLOSED_GAPS = 6696
+gap_close completed!!
+
+#### PROCESS INFORMATION ####
+VmPeak:           7.416 GByte
+VmHWM:            4.654 GByte

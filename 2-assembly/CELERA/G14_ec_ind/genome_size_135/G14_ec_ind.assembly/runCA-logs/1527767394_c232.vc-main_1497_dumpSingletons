@@ -1,0 +1,18 @@
+CA version 8.3rc2 ($Id: dumpSingletons.C 4371 2013-08-01 17:19:47Z brianwalenz $).
+
+Error Rates:
+AS_OVL_ERROR_RATE 0.060000
+AS_CNS_ERROR_RATE 0.060000
+AS_CGW_ERROR_RATE 0.100000
+AS_MAX_ERROR_RATE 0.400000
+
+Current Working Directory:
+/home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14_ec_ind/genome_size_135/G14_ec_ind.assembly/9-terminator
+
+Command:
+/home/478358/src/CELERA/wgs-8.3rc2/Linux-amd64/bin/dumpSingletons \
+  -g /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14_ec_ind/genome_size_135/G14_ec_ind.assembly/G14_ec_ind.gkpStore \
+  -t /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14_ec_ind/genome_size_135/G14_ec_ind.assembly/G14_ec_ind.tigStore \
+  -c /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14_ec_ind/genome_size_135/G14_ec_ind.assembly/7-CGW/G14_ec_ind \
+  -n 29 \
+  -S

@@ -1,0 +1,15 @@
+total 304M
+-rw-r--r-- 1 1.5K Jun  1 22:30 run_Platanus.slurm.sh
+-rw-r--r-- 1    0 Jun  2 02:16 platanus.log.1013078.err
+-rw-r--r-- 1 507K Jun  2 02:28 G14-ec-G4-filtered-k31-kgt15-pgt0.9_32merFrq.tsv
+-rw-r--r-- 1 954K Jun  2 04:45 G14-ec-G4-filtered-k31-kgt15-pgt0.9_contigBubble.fa
+-rw-r--r-- 1 117M Jun  2 04:49 G14-ec-G4-filtered-k31-kgt15-pgt0.9_contig.fa
+-rw-r--r-- 1 4.6K Jun  2 04:50 assemble.log
+-rw-r--r-- 1 130K Jun  2 04:51 G14-ec-G4-filtered-k31-kgt15-pgt0.9_lib1_insFreq.tsv
+-rw-r--r-- 1  91M Jun  2 04:53 G14-ec-G4-filtered-k31-kgt15-pgt0.9_scaffold.fa
+-rw-r--r-- 1 6.3M Jun  2 04:53 G14-ec-G4-filtered-k31-kgt15-pgt0.9_scaffoldComponent.tsv
+-rw-r--r-- 1  16K Jun  2 04:53 G14-ec-G4-filtered-k31-kgt15-pgt0.9_scaffoldBubble.fa
+-rw-r--r-- 1 5.4K Jun  2 04:53 scaffold.log
+-rw-r--r-- 1  89M Jun  2 04:57 G14-ec-G4-filtered-k31-kgt15-pgt0.9_gapClosed.fa
+-rw-r--r-- 1 1.2K Jun  2 04:57 gapclose.log
+-rw-r--r-- 1  327 Jun  2 04:57 platanus.log.1013078.out

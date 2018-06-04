@@ -1,0 +1,6 @@
+"bwa": "/home/478358/src/SPADES/SPAdes-3.9.0-Linux/bin/bwa-spades"
+"dataset": "/home/478358/WORKING/G_turnbulli/assemblies/SPADES/G14_ec_batches/default/assembly/input_dataset.yaml"
+"max_nthreads": !!int "40"
+"output_dir": "/home/478358/WORKING/G_turnbulli/assemblies/SPADES/G14_ec_batches/default/assembly/mismatch_corrector/scaffolds"
+"strategy": "mapped_squared"
+"work_dir": "/home/478358/WORKING/G_turnbulli/assemblies/SPADES/G14_ec_batches/default/assembly/mismatch_corrector/scaffolds/tmp"

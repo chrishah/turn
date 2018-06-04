@@ -1,0 +1,18 @@
+total 454M
+-rw-r--r-- 1  471 Jun  1 22:08 input_dataset.yaml
+-rw-r--r-- 1  129 Jun  1 22:08 dataset.info
+-rw-r--r-- 1 2.3K Jun  1 22:08 params.txt
+drwxr-xr-x 3    6 Jun  1 22:23 K21
+drwxr-xr-x 3    6 Jun  1 22:36 K33
+drwxr-xr-x 3    6 Jun  1 22:50 K55
+drwxr-xr-x 4    9 Jun  2 00:00 K77
+-rw-r--r-- 1 9.0M Jun  2 00:00 scaffolds.paths
+-rw-r--r-- 1 9.2M Jun  2 00:00 contigs.paths
+-rw-r--r-- 1  88M Jun  2 00:00 before_rr.fasta
+-rw-r--r-- 1 188M Jun  2 00:00 assembly_graph.fastg
+-rw-r--r-- 1  81M Jun  2 01:09 contigs.fasta
+drwxr-xr-x 4    2 Jun  2 01:10 tmp
+drwxr-xr-x 4    2 Jun  2 01:10 mismatch_corrector
+-rw-r--r-- 1  80M Jun  2 02:15 scaffolds.fasta
+-rw-r--r-- 1 510K Jun  2 02:15 spades.log
+drwxr-xr-x 2   13 Jun  2 02:15 misc

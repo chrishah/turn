@@ -1,0 +1,17 @@
+total 24K
+-rw-r--r-- 1 2.4K May 30 04:02 rna_mode.info
+-rw-r--r-- 1  584 May 30 04:02 careful_mode.info
+-rw-r--r-- 1 5.4K May 30 04:02 simplification.info
+-rw-r--r-- 1  246 May 30 04:02 plasmid_mode.info
+-rw-r--r-- 1 3.4K May 30 04:02 pe_params.info
+-rw-r--r-- 1 2.7K May 30 04:02 moleculo_mode.info
+-rw-r--r-- 1 3.7K May 30 04:02 meta_mode.info
+-rw-r--r-- 1  131 May 30 04:02 tsa.info
+-rw-r--r-- 1 1019 May 30 04:02 detail_info_printer.info
+drwxr-xr-x 2   67 May 30 04:02 datasets
+-rw-r--r-- 1  575 May 30 04:02 construction.info
+-rw-r--r-- 1 2.5K May 30 04:02 mda_mode.info
+-rw-r--r-- 1 1.3K May 30 04:02 distance_estimation.info
+-rw-r--r-- 1  128 May 30 04:02 diploid_mode.info
+drwxr-xr-x 2   37 May 30 04:02 datasets_archive
+-rw-r--r-- 1 4.0K May 30 04:02 config.info

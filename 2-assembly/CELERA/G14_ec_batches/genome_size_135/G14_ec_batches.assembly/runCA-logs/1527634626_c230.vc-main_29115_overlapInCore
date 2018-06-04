@@ -1,0 +1,24 @@
+CA version 8.3rc2 ($Id: overlapInCore.C 4599 2015-02-06 05:14:50Z brianwalenz $).
+
+Error Rates:
+AS_OVL_ERROR_RATE 0.060000
+AS_CNS_ERROR_RATE 0.060000
+AS_CGW_ERROR_RATE 0.100000
+AS_MAX_ERROR_RATE 0.400000
+
+Current Working Directory:
+/home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14_ec_batches/genome_size_135
+
+Command:
+/home/478358/src/CELERA/wgs-8.3rc2/Linux-amd64/bin/overlapInCore \
+  -G \
+  --hashbits 22 \
+  --hashload 0.75 \
+  -t 1 \
+  -h 13481960-26960164 \
+  -r 26000001-26960164 \
+  --hashstrings 13478205 \
+  --hashdatalen 1000000086 \
+  -k 22 \
+  -k /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14_ec_batches/genome_size_135/G14_ec_batches.assembly/0-mercounts/G14_ec_batches.nmers.obt.fasta \
+  -o /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14_ec_batches/genome_size_135/G14_ec_batches.assembly/0-overlaptrim-overlap/001/000021.ovb.WORKING.gz /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14_ec_batches/genome_size_135/G14_ec_batches.assembly/G14_ec_batches.gkpStore

@@ -1,0 +1,3 @@
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+gcc/4.9.3(2):ERROR:102: Tcl command execution failed: source /trinity/clustervision/CentOS/7/modulefiles/.shared/config_0.5.tcl
+

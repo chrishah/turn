@@ -1,0 +1,23 @@
+
+[Tue May 29 17:51:33 UTC 2018]
+### Preparing data ###
+
+
+[Tue May 29 17:55:16 UTC 2018]
+### ASSEMBLE ###
+
+
+[Tue May 29 21:19:43 UTC 2018]
+### SCAFFOLD ###
+
+
+[Tue May 29 21:23:55 UTC 2018]
+### CLOSE GAPS ###
+
+
+[Tue May 29 21:27:39 UTC 2018]
+### DONE ###
+
+removed 'reads.1.fastq'
+removed 'reads.2.fastq'
+removed 'reads.me.fastq'

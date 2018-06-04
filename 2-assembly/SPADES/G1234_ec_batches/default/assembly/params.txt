@@ -1,0 +1,36 @@
+Command line: /home/478358/src/SPADES/SPAdes-3.9.0-Linux/bin/spades.py	--only-assembler	--careful	--cov-cutoff	auto	-t	40	-m	800	-o	/home/478358/WORKING/G_turnbulli/assemblies/SPADES/G1234_ec_batches/default/assembly	--pe1-1	/home/478358/WORKING/G_turnbulli/reads/G1234_ec_batches/G1234_ec_batches.1.fastq.gz	--pe1-2	/home/478358/WORKING/G_turnbulli/reads/G1234_ec_batches/G1234_ec_batches.2.fastq.gz	--s1	/home/478358/WORKING/G_turnbulli/reads/G1234_ec_batches/G1234_ec_batches.merged.fastq.gz	
+
+System information:
+  SPAdes version: 3.9.0
+  Python version: 2.7.14
+  OS: Linux-3.10.0-514.26.2.el7.x86_64-x86_64-with-centos-7.2.1511-Core
+
+Output dir: /home/478358/WORKING/G_turnbulli/assemblies/SPADES/G1234_ec_batches/default/assembly
+Mode: ONLY assembling (without read error correction)
+Debug mode is turned OFF
+
+Dataset parameters:
+  Multi-cell mode (you should set '--sc' flag if input data was obtained with MDA (single-cell) technology or --meta flag if processing metagenomic dataset)
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: ['/home/478358/WORKING/G_turnbulli/reads/G1234_ec_batches/G1234_ec_batches.1.fastq.gz']
+      right reads: ['/home/478358/WORKING/G_turnbulli/reads/G1234_ec_batches/G1234_ec_batches.2.fastq.gz']
+      interlaced reads: not specified
+      single reads: not specified
+    Library number: 2, library type: single
+      left reads: not specified
+      right reads: not specified
+      interlaced reads: not specified
+      single reads: ['/home/478358/WORKING/G_turnbulli/reads/G1234_ec_batches/G1234_ec_batches.merged.fastq.gz']
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned ON
+  MismatchCorrector will be used
+  Coverage cutoff is turned ON and threshold will be auto-detected
+Other parameters:
+  Dir for temp files: /home/478358/WORKING/G_turnbulli/assemblies/SPADES/G1234_ec_batches/default/assembly/tmp
+  Threads: 40
+  Memory limit (in Gb): 800
+

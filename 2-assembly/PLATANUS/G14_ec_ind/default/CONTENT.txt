@@ -1,0 +1,15 @@
+total 382M
+-rw-r--r-- 1 1.4K May 29 08:27 run_Platanus.slurm.sh
+-rw-r--r-- 1    0 May 30 14:08 platanus.log.1011930.err
+-rw-r--r-- 1 507K May 30 14:31 G14_ec_ind_32merFrq.tsv
+-rw-r--r-- 1 2.6M May 30 17:28 G14_ec_ind_contigBubble.fa
+-rw-r--r-- 1 152M May 30 17:33 G14_ec_ind_contig.fa
+-rw-r--r-- 1 5.1K May 30 17:33 assemble.log
+-rw-r--r-- 1  66K May 30 17:35 G14_ec_ind_lib1_insFreq.tsv
+-rw-r--r-- 1 110M May 30 17:37 G14_ec_ind_scaffold.fa
+-rw-r--r-- 1  12M May 30 17:37 G14_ec_ind_scaffoldComponent.tsv
+-rw-r--r-- 1  63K May 30 17:37 G14_ec_ind_scaffoldBubble.fa
+-rw-r--r-- 1 5.3K May 30 17:37 scaffold.log
+-rw-r--r-- 1 1.1K May 30 17:41 gapclose.log
+-rw-r--r-- 1 107M May 30 17:41 G14_ec_ind_gapClosed.fa
+-rw-r--r-- 1  327 May 30 17:41 platanus.log.1011930.out

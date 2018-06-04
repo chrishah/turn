@@ -1,0 +1,17 @@
+CA version 8.3rc2 ($Id: tigStore.C 4572 2014-10-14 23:06:05Z brianwalenz $).
+
+Error Rates:
+AS_OVL_ERROR_RATE 0.060000
+AS_CNS_ERROR_RATE 0.060000
+AS_CGW_ERROR_RATE 0.100000
+AS_MAX_ERROR_RATE 0.400000
+
+Current Working Directory:
+/home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14_ec_batches/genome_size_UNKNOWN/G14_ec_batches.assembly/5-consensus-insert-sizes
+
+Command:
+/home/478358/src/CELERA/wgs-8.3rc2/Linux-amd64/bin/tigStore \
+  -g /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14_ec_batches/genome_size_UNKNOWN/G14_ec_batches.assembly/G14_ec_batches.gkpStore \
+  -t /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14_ec_batches/genome_size_UNKNOWN/G14_ec_batches.assembly/5-consensus-insert-sizes/G14_ec_batches.tigStore 3 \
+  -d matepair \
+  -U

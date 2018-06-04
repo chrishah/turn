@@ -1,0 +1,40 @@
+Platanus version: 1.2.4
+platanus assemble -o G1234_ec_batches -f reads.1.fastq reads.2.fastq reads.me.fastq -t 40 -m 700 
+
+K = 32, saving kmers from reads...
+AVE_READ_LEN=129.536
+
+KMER_EXTENSION:
+K=32, KMER_COVERAGE=21.9688 (>= 7), COVERAGE_CUTOFF=7
+loading kmers...
+connecting kmers...
+removing branches...
+BRANCH_DELETE_THRESHOLD=0.5
+NUM_CUT=285891
+NUM_CUT=1283
+NUM_CUT=17
+NUM_CUT=0
+TOTAL_NUM_CUT=287191
+LENGTH_CUTOFF = 64
+COVERAGE_CUTOFF = 7
+removing erroneous nodes...
+NUM_REMOVED_NODES=0
+TOTAL_NUM_REMOVED_NODES=0
+AVE_KMER_COV_REMOVING_BUBBLE=21.9537
+removing bubbles...
+BUBBLE_IDENTITY_THRESHOLD=0.1
+NUM_REMOVED_BUBBLES=58259
+NUM_REMOVED_BUBBLES=42
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=58301
+mapping reads on de Bruijn Graph nodes...
+TOTAL_MAPPED_READS=104261560
+TOTAL_UNMAPPED_READS=48491112
+TOTAL_SHORT_READS(<32)=61634
+NUM_DELETE_NODE(reads are unmapped)=4089612
+NUM_CUT_NODE=1129812
+assemble completed!
+
+#### PROCESS INFORMATION ####
+VmPeak:         516.708 GByte
+VmHWM:           37.114 GByte

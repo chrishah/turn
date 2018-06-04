@@ -1,0 +1,3 @@
+total 0
+drwxr-xr-x 3 7 May 30 22:38 genome_size_135
+drwxr-xr-x 3 7 Jun  2 20:21 genome_size_UNKNOWN

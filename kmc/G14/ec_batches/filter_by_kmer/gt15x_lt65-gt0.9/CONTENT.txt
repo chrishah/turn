@@ -1,7 +1,0 @@
-total 2.2G
--rw-r--r-- 1 1.6K May 29 20:49 filter_reads.slurm.sh
--rw-r--r-- 1  634 May 29 20:49 log.kmer-filter.1012162.out
--rw-r--r-- 1    0 May 29 20:49 log.kmer-filter.1012162.err
--rw-r--r-- 1  434 May 29 20:49 fofn.txt
--rw-r--r-- 1 2.2G May 29 20:53 G14-ec-G4-filtered-k31-kgt15-klt65-pgt0.9-plt1.0.fastq.gz
-drwxr-xr-x 2   10 May 29 22:57 kmer_distribution

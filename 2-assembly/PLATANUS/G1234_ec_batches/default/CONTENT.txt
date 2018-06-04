@@ -1,0 +1,15 @@
+total 2.0G
+-rw-r--r-- 1 1.4K May 27 22:08 run_Platanus.slurm.sh
+-rw-r--r-- 1    0 May 27 23:59 platanus.log.1011836.err
+-rw-r--r-- 1 511K May 28 00:37 G1234_ec_batches_32merFrq.tsv
+-rw-r--r-- 1 4.9M May 28 00:57 G1234_ec_batches_contigBubble.fa
+-rw-r--r-- 1 743M May 28 01:14 G1234_ec_batches_contig.fa
+-rw-r--r-- 1 1015 May 28 01:14 assemble.log
+-rw-r--r-- 1  27K May 28 01:27 G1234_ec_batches_lib1_insFreq.tsv
+-rw-r--r-- 1 578M May 28 01:45 G1234_ec_batches_scaffold.fa
+-rw-r--r-- 1  72M May 28 01:45 G1234_ec_batches_scaffoldComponent.tsv
+-rw-r--r-- 1    0 May 28 01:45 G1234_ec_batches_scaffoldBubble.fa
+-rw-r--r-- 1 5.2K May 28 01:45 scaffold.log
+-rw-r--r-- 1 557M May 28 02:10 G1234_ec_batches_gapClosed.fa
+-rw-r--r-- 1 1.1K May 28 02:10 gapclose.log
+-rw-r--r-- 1  327 May 28 02:10 platanus.log.1011836.out

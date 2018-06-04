@@ -1,0 +1,14 @@
+total 524M
+-rw-r--r-- 1  82M May 31 06:22 assembled_contigs.fasta
+-rw-r--r-- 1  82M May 31 06:22 assembled_scaffolds.fasta
+-rw-r--r-- 1  20M May 31 07:34 assembled_contigs.fasta.pac
+-rw-r--r-- 1  79M May 31 07:34 assembled_contigs.fasta.bwt
+-rw-r--r-- 1 2.9M May 31 07:34 assembled_contigs.fasta.ann
+-rw-r--r-- 1   17 May 31 07:34 assembled_contigs.fasta.amb
+-rw-r--r-- 1  40M May 31 07:35 assembled_contigs.fasta.sa
+-rw-r--r-- 1  79M May 31 09:16 assembled_scaffolds.fasta.bwt
+-rw-r--r-- 1  20M May 31 09:16 assembled_scaffolds.fasta.pac
+-rw-r--r-- 1 2.9M May 31 09:16 assembled_scaffolds.fasta.ann
+-rw-r--r-- 1  429 May 31 09:16 assembled_scaffolds.fasta.amb
+-rw-r--r-- 1  40M May 31 09:16 assembled_scaffolds.fasta.sa
+-rw-r--r-- 1  82M May 31 09:26 broken_scaffolds.fasta

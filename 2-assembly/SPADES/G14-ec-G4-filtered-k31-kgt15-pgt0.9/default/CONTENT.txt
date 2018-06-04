@@ -1,0 +1,5 @@
+total 511K
+-rw-r--r-- 1 1.1K Jun  1 22:08 run_Spades.slurm.sh
+-rw-r--r-- 1  203 Jun  1 22:08 spades.log.1013068.err
+drwxr-xr-x 9   17 Jun  2 02:15 assembly
+-rw-r--r-- 1 510K Jun  2 02:15 spades.log.1013068.out

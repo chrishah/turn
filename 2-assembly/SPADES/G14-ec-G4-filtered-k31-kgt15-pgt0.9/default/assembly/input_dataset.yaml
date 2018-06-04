@@ -1,0 +1,6 @@
+- left reads: [/home/478358/WORKING/turn/3-merging/G14-ec-G4-filtered-k31-kgt15-pgt0.9/G14-ec-G4-filtered-k31-kgt15-pgt0.9_1.nm.fastq.gz]
+  orientation: fr
+  right reads: [/home/478358/WORKING/turn/3-merging/G14-ec-G4-filtered-k31-kgt15-pgt0.9/G14-ec-G4-filtered-k31-kgt15-pgt0.9_2.nm.fastq.gz]
+  type: paired-end
+- single reads: [/home/478358/WORKING/turn/3-merging/G14-ec-G4-filtered-k31-kgt15-pgt0.9/G14-ec-G4-filtered-k31-kgt15-pgt0.9.merged.fastq.gz]
+  type: single

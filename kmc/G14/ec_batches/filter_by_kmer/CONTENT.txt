@@ -1,3 +1,0 @@
-total 0
-drwxr-xr-x 3 6 May 29 22:53 gt15x_lt65-gt0.9
-drwxr-xr-x 4 7 May 30 08:51 gt15x_gt0.9

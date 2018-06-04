@@ -1,0 +1,8 @@
+total 145K
+-rw-r----- 1 2.1K May 29 08:28 Celera_VIPER_highmem.spec
+-rw-r--r-- 1 1.3K May 29 08:29 run_Celera.slurm.sh
+-rw-r--r-- 1  702 May 30 20:32 pe.frg
+-rw-r--r-- 1  631 May 30 20:32 se.frg
+-rw-r--r-- 1  287 May 31 11:58 celera.log.1011932.out
+-rw-r--r-- 1 142K May 31 11:58 celera.log.1011932.err
+drwxr-xr-x 4    2 Jun  4 07:16 G14_ec_ind.assembly

@@ -1,0 +1,155 @@
+Platanus version: 1.2.4
+platanus scaffold -o G1234_ec_batches -c G1234_ec_batches_contig.fa -b G1234_ec_batches_contigBubble.fa -IP1 ./reads.1.fastq ./reads.2.fastq -t 40 
+
+K=32, making hash table...
+K=32, making hash table...
+CONTIG_AVERAGE_COVERAGE = 25.3024
+mapping bubbles on contigs...
+[LIBRARY 1]
+mapping reads...
+TOTAL_PAIR = 71489401
+MAPPED_PAIR = 44849870 (0.627364)
+MAPPED_IN_DIFFERENT_CONTIGS = 21861290 (0.305798)
+MAPPED_IN_SAME_CONTIG = 22988580 (0.321566)
+AVERAGE_COVERAGE = 17.155
+estimating insert-size...
+PEAK = 314
+LOWER_LIMIT (permissible range to estimate AVE_INS)= 79
+UPPER_LIMIT (permissible range to estimate AVE_INS)= 550
+AVE_INS = 345
+SD_INS = 69
+[LIBRARY 1]
+AVE_INS = 345, SD_INS = 69
+saving overlaps... (LEN_CUTOFF=138)
+destructing mapper objects...
+[LIBRARY 1]
+AVE_INS = 345, SD_INS = 69
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_OVERLAP_CONTIGS=84 (CONTAINED_HETERO)
+TOLERENCE_LEVEL_OF_CONTIG_OVERLAP = 138
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+removing erroneous edges...
+NUM_SPLIT_LINK (not enough mapped pairs)=191
+NUM_SPLIT_LINK (not enough mapped pairs)=0
+TOTAL_SPLIT_LINK (not enough mapped pairs)=191
+scaffolding...
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+NUM_SPLIT_LINK (not originate from heterozygosity)=201 (COVERAGE_THRESHOLD)
+scaffolding...
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_OVERLAP_CONTIGS=56 (CONTAINED_HETERO)
+TOLERENCE_LEVEL_OF_CONTIG_OVERLAP = 207
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+removing erroneous edges...
+NUM_SPLIT_LINK (not enough mapped pairs)=68
+NUM_SPLIT_LINK (not enough mapped pairs)=0
+TOTAL_SPLIT_LINK (not enough mapped pairs)=68
+scaffolding...
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+NUM_SPLIT_LINK (not originate from heterozygosity)=1 (COVERAGE_THRESHOLD)
+scaffolding...
+[LIBRARY 1]
+AVE_INS = 345, SD_INS = 69
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_OVERLAP_CONTIGS=16 (CONTAINED_HETERO)
+TOLERENCE_LEVEL_OF_CONTIG_OVERLAP = 138
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+removing erroneous edges...
+NUM_SPLIT_LINK (not enough mapped pairs)=77
+NUM_SPLIT_LINK (not enough mapped pairs)=0
+TOTAL_SPLIT_LINK (not enough mapped pairs)=77
+deleting edges from repeat contigs...
+scaffolding...
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+NUM_SPLIT_LINK (not originate from heterozygosity)=0 (COVERAGE_THRESHOLD)
+scaffolding...
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_OVERLAP_CONTIGS=0 (CONTAINED_HETERO)
+TOLERENCE_LEVEL_OF_CONTIG_OVERLAP = 207
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+removing erroneous edges...
+NUM_SPLIT_LINK (not enough mapped pairs)=68
+NUM_SPLIT_LINK (not enough mapped pairs)=0
+TOTAL_SPLIT_LINK (not enough mapped pairs)=68
+deleting edges from repeat contigs...
+scaffolding...
+linking scaffolds (MIN_LINK = 3)
+sorting links in contigID order...
+estimating contig distances...
+constructing scaffold graph
+NUM_REMOVED_BUBBLES=0 (COVERAGE_THRESHOLD)
+removing bubbles... (MAX_BUBBLE_IDENTITY = 0.1)
+NUM_REMOVED_BUBBLES=0
+TOTAL_NUM_REMOVED_BUBBLES=0
+NUM_SPLIT_LINK (not originate from heterozygosity)=0 (COVERAGE_THRESHOLD)
+scaffolding...
+Library1 PHYSICAL_COVERAGE=23
+SUM_SHORT_LIBRARY_PHYSICAL_COVERAGE=23
+SUM_LONG_LIBRARY_PHYSICAL_COVERAGE=0
+writing scaffold files...
+scaffold completed!
+
+#### PROCESS INFORMATION ####
+VmPeak:          36.235 GByte
+VmHWM:            4.734 GByte

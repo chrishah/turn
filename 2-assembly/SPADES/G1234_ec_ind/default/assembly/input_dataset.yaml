@@ -1,0 +1,6 @@
+- left reads: [/home/478358/WORKING/G_turnbulli/reads/G1234_ec_ind/G1234_ec_ind.1.fastq.gz]
+  orientation: fr
+  right reads: [/home/478358/WORKING/G_turnbulli/reads/G1234_ec_ind/G1234_ec_ind.2.fastq.gz]
+  type: paired-end
+- single reads: [/home/478358/WORKING/G_turnbulli/reads/G1234_ec_ind/G1234_ec_ind.merged.fastq.gz]
+  type: single

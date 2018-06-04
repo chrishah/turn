@@ -1,0 +1,6 @@
+total 0
+drwxrwxr-x 11 12 May 29 22:00 3-merging
+drwxrwxr-x 10 12 May 29 22:00 2-error-correction
+drwxrwxr-x  6  9 May 29 22:48 1-trimming
+drwxrwxr-x  6  6 Jun  2 20:25 4-concatenate
+drwxr-xr-x  7  7 Jun  2 22:37 kmc

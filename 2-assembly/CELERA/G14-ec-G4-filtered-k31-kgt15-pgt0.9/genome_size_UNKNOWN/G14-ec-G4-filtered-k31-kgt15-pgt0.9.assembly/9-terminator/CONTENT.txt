@@ -1,0 +1,10 @@
+total 1.3G
+-rw-r--r-- 1 135M Jun  2 12:33 G14-ec-G4-filtered-k31-kgt15-pgt0.9.utg.qv
+-rw-r--r-- 1 368M Jun  2 12:33 G14-ec-G4-filtered-k31-kgt15-pgt0.9.utg.qual
+-rw-r--r-- 1 135M Jun  2 12:33 G14-ec-G4-filtered-k31-kgt15-pgt0.9.utg.fasta
+-rw-r--r-- 1  69M Jun  2 12:33 G14-ec-G4-filtered-k31-kgt15-pgt0.9.scf.qv
+-rw-r--r-- 1 204M Jun  2 12:33 G14-ec-G4-filtered-k31-kgt15-pgt0.9.scf.qual
+-rw-r--r-- 1  69M Jun  2 12:33 G14-ec-G4-filtered-k31-kgt15-pgt0.9.scf.fasta
+-rw-r--r-- 1  69M Jun  2 12:33 G14-ec-G4-filtered-k31-kgt15-pgt0.9.ctg.qv
+-rw-r--r-- 1 204M Jun  2 12:33 G14-ec-G4-filtered-k31-kgt15-pgt0.9.ctg.qual
+-rw-r--r-- 1  69M Jun  2 12:33 G14-ec-G4-filtered-k31-kgt15-pgt0.9.ctg.fasta

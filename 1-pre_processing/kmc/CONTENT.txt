@@ -1,0 +1,6 @@
+total 0
+drwxr-xr-x 4 4 Jun  2 22:37 G4
+drwxr-xr-x 3 3 Jun  2 22:37 G3
+drwxr-xr-x 5 5 Jun  2 22:37 G14
+drwxr-xr-x 4 4 Jun  2 22:37 G2
+drwxr-xr-x 4 4 Jun  2 22:37 G1

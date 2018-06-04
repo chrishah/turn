@@ -1,0 +1,7 @@
+total 543M
+drwxr-xr-x 4   16 May 30 08:23 configs
+-rw-r--r-- 1 100M May 30 10:29 simplified_contigs.fasta
+-rw-r--r-- 1 100M May 30 10:29 before_rr.fasta
+-rw-r--r-- 1 246M May 30 10:29 assembly_graph.fastg
+-rw-r--r-- 1 1.1K May 30 10:29 final.lib_data
+-rw-r--r-- 1 100M May 30 10:29 final_contigs.fasta

@@ -1,0 +1,23 @@
+CA version 8.3rc2 ($Id: overlapInCore.C 4599 2015-02-06 05:14:50Z brianwalenz $).
+
+Error Rates:
+AS_OVL_ERROR_RATE 0.060000
+AS_CNS_ERROR_RATE 0.060000
+AS_CGW_ERROR_RATE 0.100000
+AS_MAX_ERROR_RATE 0.400000
+
+Current Working Directory:
+/home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14-ec-G4-filtered-k31-kgt15-pgt0.9/genome_size_UNKNOWN
+
+Command:
+/home/478358/src/CELERA/wgs-8.3rc2/Linux-amd64/bin/overlapInCore \
+  --hashbits 22 \
+  --hashload 0.75 \
+  -t 1 \
+  -h 31877049-39519204 \
+  -r 32000001-34000000 \
+  --hashstrings 7642156 \
+  --hashdatalen 1000000130 \
+  -k 22 \
+  -k /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14-ec-G4-filtered-k31-kgt15-pgt0.9/genome_size_UNKNOWN/G14-ec-G4-filtered-k31-kgt15-pgt0.9.assembly/0-mercounts/G14-ec-G4-filtered-k31-kgt15-pgt0.9.nmers.ovl.fasta \
+  -o /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14-ec-G4-filtered-k31-kgt15-pgt0.9/genome_size_UNKNOWN/G14-ec-G4-filtered-k31-kgt15-pgt0.9.assembly/1-overlapper/001/000058.ovb.WORKING.gz /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14-ec-G4-filtered-k31-kgt15-pgt0.9/genome_size_UNKNOWN/G14-ec-G4-filtered-k31-kgt15-pgt0.9.assembly/G14-ec-G4-filtered-k31-kgt15-pgt0.9.gkpStore

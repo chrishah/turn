@@ -1,0 +1,16 @@
+CA version 8.3rc2 ($Id: utgcnsfix.C 4442 2013-10-04 14:33:50Z brianwalenz $).
+
+Error Rates:
+AS_OVL_ERROR_RATE 0.060000
+AS_CNS_ERROR_RATE 0.060000
+AS_CGW_ERROR_RATE 0.100000
+AS_MAX_ERROR_RATE 0.400000
+
+Current Working Directory:
+/home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14-ec-G4-filtered-k31-kgt15-pgt0.9/genome_size_UNKNOWN
+
+Command:
+/home/478358/src/CELERA/wgs-8.3rc2/Linux-amd64/bin/utgcnsfix \
+  -g /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14-ec-G4-filtered-k31-kgt15-pgt0.9/genome_size_UNKNOWN/G14-ec-G4-filtered-k31-kgt15-pgt0.9.assembly/G14-ec-G4-filtered-k31-kgt15-pgt0.9.gkpStore \
+  -t /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14-ec-G4-filtered-k31-kgt15-pgt0.9/genome_size_UNKNOWN/G14-ec-G4-filtered-k31-kgt15-pgt0.9.assembly/G14-ec-G4-filtered-k31-kgt15-pgt0.9.tigStore 2 079 \
+  -o /home/478358/WORKING/G_turnbulli/assemblies/CELERA/G14-ec-G4-filtered-k31-kgt15-pgt0.9/genome_size_UNKNOWN/G14-ec-G4-filtered-k31-kgt15-pgt0.9.assembly/5-consensus/G14-ec-G4-filtered-k31-kgt15-pgt0.9_079.fixes

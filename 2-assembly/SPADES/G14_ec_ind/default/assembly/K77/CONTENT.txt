@@ -1,0 +1,10 @@
+total 459M
+drwxr-xr-x 4   16 May 31 02:16 configs
+-rw-r--r-- 1  89M May 31 06:14 before_rr.fasta
+drwxr-xr-x 2    0 May 31 06:14 path_extend
+-rw-r--r-- 1 190M May 31 06:14 assembly_graph.fastg
+-rw-r--r-- 1 8.9M May 31 06:21 final_contigs.paths
+-rw-r--r-- 1  82M May 31 06:21 final_contigs.fasta
+-rw-r--r-- 1 8.8M May 31 06:21 scaffolds.paths
+-rw-r--r-- 1  82M May 31 06:21 scaffolds.fasta
+-rw-r--r-- 1  14K May 31 06:21 final.lib_data

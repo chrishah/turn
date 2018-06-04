@@ -1,0 +1,10 @@
+total 1.7G
+-rw-r--r-- 1 228M May 31 11:49 G14_ec_ind.utg.qv
+-rw-r--r-- 1 589M May 31 11:49 G14_ec_ind.utg.qual
+-rw-r--r-- 1 228M May 31 11:49 G14_ec_ind.utg.fasta
+-rw-r--r-- 1  62M May 31 11:49 G14_ec_ind.scf.qv
+-rw-r--r-- 1 182M May 31 11:49 G14_ec_ind.scf.qual
+-rw-r--r-- 1  62M May 31 11:49 G14_ec_ind.scf.fasta
+-rw-r--r-- 1  62M May 31 11:49 G14_ec_ind.ctg.qv
+-rw-r--r-- 1 182M May 31 11:49 G14_ec_ind.ctg.qual
+-rw-r--r-- 1  62M May 31 11:49 G14_ec_ind.ctg.fasta

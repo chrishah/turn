@@ -1,0 +1,3 @@
+total 0
+drwxr-xr-x 3 2 May 30 18:53 contigs
+drwxr-xr-x 3 2 May 30 20:31 scaffolds

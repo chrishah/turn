@@ -1,0 +1,7 @@
+total 0
+drwxr-xr-x 3 1 May 25 22:47 G1234
+drwxr-xr-x 3 1 May 27 22:08 G1234_ec_batches
+drwxr-xr-x 2 1 May 28 07:30 G1234_ec_ind
+drwxr-xr-x 3 1 May 29 08:17 G14_ec_batches
+drwxr-xr-x 3 1 May 29 08:26 G14_ec_ind
+drwxr-xr-x 3 1 May 30 22:35 G14-ec-G4-filtered-k31-kgt15-pgt0.9

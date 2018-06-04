@@ -1,0 +1,8 @@
+total 163K
+-rw-r--r-- 1 1.3K Jun  2 20:21 run_Celera.slurm.sh
+-rw-r----- 1 2.1K Jun  2 20:21 Celera_VIPER_highmem.spec
+-rw-r--r-- 1  639 Jun  2 20:21 se.frg
+-rw-r--r-- 1  718 Jun  2 20:21 pe.frg
+-rw-r--r-- 1  295 Jun  3 14:21 celera.log.1013086.out
+-rw-r--r-- 1 160K Jun  3 14:21 celera.log.1013086.err
+drwxr-xr-x 4    2 Jun  4 07:15 G14_ec_batches.assembly

@@ -1,0 +1,11 @@
+assembled_contigs.fasta
+assembled_contigs.fasta.ann
+assembled_contigs.fasta.bwt
+assembled_contigs.fasta.pac
+assembled_contigs.fasta.sa
+assembled_scaffolds.fasta
+assembled_scaffolds.fasta.ann
+assembled_scaffolds.fasta.bwt
+assembled_scaffolds.fasta.pac
+assembled_scaffolds.fasta.sa
+broken_scaffolds.fasta
